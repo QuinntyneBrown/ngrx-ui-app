@@ -7,6 +7,13 @@
 *.userosscache
 *.sln.docstates
 
+src/**/*.js
+src/**/*.js.map
+
+node_modules
+
+dist
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
